@@ -31,4 +31,4 @@ Les résultats mettent en évidence des relations significatives entre le temps 
 Ce projet permet de fournir des éléments d’aide à la décision pour un usage plus équilibré des médias sociaux.
 
 ## 👤 Auteur
-[Votre nom]
+Martinien.YAO
